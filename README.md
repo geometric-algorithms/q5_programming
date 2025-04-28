@@ -37,3 +37,11 @@ After each update, the algorithm maintains and reports the current set of inters
 ---
 
 This project involves implementing efficient algorithms for both static and dynamic segment intersection handling.
+
+
+## Running Instructions
+### Part A: Modify input.txt as per need and run ./test.sh 
+### Part B: Modify input.txt as per need and run ./test.sh
+
+## Contributors
+Karthikeya Satti (210050142), Hrushikesh Reddy M (210050097)
